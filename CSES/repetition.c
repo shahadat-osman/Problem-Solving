@@ -3,24 +3,17 @@
 
 int main()
 {
-    char m_sent[1000010], s_sent[]="ACGT";
+    int i, count, len, j;
+    char m_sent[1000010], s_sent[]="ACGT", select;
     scanf("%s", m_sent);
 
-    //fgets(m_sent, sizeof(m_sent), stdin);
-
-    int len=strlen(m_sent), i, count=0, select, j, ary[4], max;
-
-    for(i=0; i<len; i++)
+    len=strlen(m_sent);
+    select=m_sent[1];
+    for(i=1; i<=len; i++)
     {
-        count=0;
-        select=s_sent[i];
-        for(j=0; j<len; j++)
-        {
-            if(m_sent[j]==select)
-                count++;
-        }
-        ary[i]=count;
+        
     }
+    printf("%c\n", select);
     
     
 }
