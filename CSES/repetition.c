@@ -4,7 +4,7 @@
 int main()
 {
     int i, count, len, j;
-    char m_sent[1000010], s_sent[]="ACGT", select;
+    char m_sent[1000010], select;
     scanf("%s", m_sent);
 
     len=strlen(m_sent);
