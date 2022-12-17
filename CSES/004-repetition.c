@@ -1,19 +1,26 @@
-#include<stdio.h>
-#include<string.h>
-
+#include <stdio.h>
+#include <string.h>
 int main()
 {
-    int i, count, len, j;
-    char m_sent[1000010], select;
-    scanf("%s", m_sent);
+    int i, count = 1;
+    char str[1000005];
+    scanf("%s", str);
 
-    len=strlen(m_sent);
-    select=m_sent[1];
-    for(i=1; i<=len; i++)
+    int max = 0, len = strlen(str);
+    for (i = 0; i <= len - 2; i++)
     {
-        
+        if (str[i] == str[i + 1])
+            count++;
+        else
+        {
+            if (count > max)
+                max = count;
+
+            count = 1;
+        }
     }
-    printf("%c\n", select);
-    
-    
+    if (count > max)
+        max = count;
+
+    printf("%d\n", max);
 }
