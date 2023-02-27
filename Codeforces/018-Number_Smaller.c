@@ -34,3 +34,17 @@ int main()
         printf("%d ", output[i]);
     }
 }
+
+/* for(i=0; i<m; i++)
+    {
+        select=m_ary[i];
+        for(j=0; j<n; j++)
+        {
+            if(select>n_ary[j])
+                count++;
+            else
+                break;
+        }
+        output[i]=count;
+        count=0;
+    } */
