@@ -1,4 +1,3 @@
-//unsolved
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -8,13 +7,17 @@ int main()
     cin.tie(0);
 
     int t;
-    unsigned long long int n;
     cin>>t;
     while(t--)
     {
+        int n;
         cin>>n;
-        n%=10;
-        cout<<n;
+        float rt=sqrt(n);
+        int rt_mod=(int)rt;
+        if(rt_mod*rt_mod==n)
+            cout<<"YES\n";
+        else
+            cout<<"NO\n";
     }
 
     return 0;
