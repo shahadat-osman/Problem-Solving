@@ -10,4 +10,4 @@
 | HackerRank | [shahadat_osman](https://www.hackerrank.com/shahadat_osman) | 0 |
 |  | Total: | 138 |
 
-Last Updated: 29 July, 2023
+Last Updated: 30 July, 2023
