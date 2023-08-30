@@ -61,8 +61,6 @@ Codeforces/040-Compare_TShirt
 Codeforces/041-Digits_Sum
 Codeforces/042-Soldier_Banana
 Codeforces/043-Seeing_Double
-Unsolved/
-OJ_Dimik/
 CodeChef/0-1000_Rating/009-Masterchef_final
 CodeChef/0-1000_Rating/010-Biryani
 CodeChef/0-1000_Rating/011-Fitness
@@ -71,3 +69,8 @@ toaster.cpp
 toaster
 Draft.cpp
 Draft
+Unsolved/
+OJ_Dimik/
+.cph/
+*bin
+A_Army.cpp
