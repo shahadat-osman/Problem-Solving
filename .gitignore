@@ -74,3 +74,5 @@ OJ_Dimik/
 .cph/
 *bin
 Template.c
+input.txt
+output.txt
