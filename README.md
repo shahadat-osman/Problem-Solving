@@ -2,12 +2,12 @@
 
 | Platform | Username | Solved |
 | :--- | :---: | -----------: |
-| Codeforces | [shahadat.osman](https://codeforces.com/profile/shahadat.osman) | 172 |
-| LeetCode | [shahadat_osman](https://leetcode.com/shahadat_osman) | 20 |
+| Codeforces | [shahadat.osman](https://codeforces.com/profile/shahadat.osman) | 176 |
+| LeetCode | [shahadat_osman](https://leetcode.com/shahadat_osman) | 22 |
 | CSES | [shahadat_osman](https://cses.fi/user/135904) | 8 |
 | CodeChef | [shahadat_mso](https://www.codechef.com/users/shahadat_mso) | 46 |
 | HackerEarth | [shahadat.osman](https://www.hackerearth.com/@shahadat.osman) | 2 |
 | HackerRank | [shahadat_osman](https://www.hackerrank.com/shahadat_osman) | 2 |
-|  | Total: | 250 |
+|  | Total: | 256 |
 
-Last Updated: 17 Nov, 2023
+Last Updated: 28 Dec, 2023
