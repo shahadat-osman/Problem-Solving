@@ -11,7 +11,8 @@
 			"string": "cpp",
 			"iostream": "cpp",
 			"ios": "cpp",
-			"vector": "cpp"
+			"vector": "cpp",
+			"queue": "cpp"
 		}
 	}
 }
