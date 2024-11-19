@@ -12,7 +12,8 @@
 			"iostream": "cpp",
 			"ios": "cpp",
 			"vector": "cpp",
-			"queue": "cpp"
+			"queue": "cpp",
+			"ratio": "cpp"
 		}
 	}
 }
